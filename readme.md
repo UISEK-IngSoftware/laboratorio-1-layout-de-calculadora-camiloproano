@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Camilo Proaño
+- **Carrera**: Ingeniería en Informática
+- **Fecha de entrega**: 8/10/2025
 
 ---
 
